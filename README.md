@@ -1,5 +1,5 @@
 
-# Wonder Flower - an e-commerce website
+# Wonder Flower - an e-shop website
 
 By Anastasia Korotkova, Angela Duton, Angelina Liborom, Audrey Doyen, Hélène Veber, Iris Gaudin, Marie Koscianski-Ducharlet, Morgane Lépine Utter and Rouhullah Karimi during a two-week sprint at [Ada Tech School](https://adatechschool.fr/)
 
@@ -30,6 +30,8 @@ In terms of cybersecurity, we used SHA256, salt and pepper for storing the users
 
 For my part, I lacked the time to figure a proper, secure way to store the webtoken inside the React app. I resorted to sessionStorage knowing it would have been way better to implement a secure authentification handler.
 
+You can [visit the website!](https://wonderflower.vercel.app/)
+
 
 
 ## Screenshot
@@ -46,6 +48,4 @@ Sign-up, sign-in, cart:
 
 [![Watch the video](https://cdn.loom.com/sessions/thumbnails/9f2d3dae70f64874bcbbaa518c5d2c77-with-play.gif)](https://www.loom.com/embed/9f2d3dae70f64874bcbbaa518c5d2c77)
 
-Admin page:
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/ef4083b8059641abb9f323fa6e80a287-with-play.gif)](https://www.loom.com/embed/ef4083b8059641abb9f323fa6e80a287)
