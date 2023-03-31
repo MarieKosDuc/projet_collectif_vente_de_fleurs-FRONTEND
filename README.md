@@ -48,4 +48,8 @@ Sign-up, sign-in, cart:
 
 [![Watch the video](https://cdn.loom.com/sessions/thumbnails/9f2d3dae70f64874bcbbaa518c5d2c77-with-play.gif)](https://www.loom.com/embed/9f2d3dae70f64874bcbbaa518c5d2c77)
 
+Admin page:
+
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/ef4083b8059641abb9f323fa6e80a287-with-play.gif)](https://www.loom.com/embed/ef4083b8059641abb9f323fa6e80a287)
+
 
